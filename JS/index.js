@@ -41,6 +41,6 @@ $(function(){
   $("#homepageheader").load("header.html"); 
   $("#homepagefooter").load("footer.html"); 
     // header and footer for other pages (if different)
-  $("#pageheader").load("../header.html"); 
-  $("#pagefooter").load("../footer.html"); 
+  $("#pageheader").load("header.html"); 
+  $("#pagefooter").load("footer.html"); 
 });
