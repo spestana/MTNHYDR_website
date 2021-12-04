@@ -36,7 +36,7 @@ const buttonFunction = () => {
 }
 
 // jquery function to load header and footer for each page
-$(window).load(function(){
+$(function(){
   $("#header").load("header.html"); 
   $("#footer").load("footer.html"); 
 });
