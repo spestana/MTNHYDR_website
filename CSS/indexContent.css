@@ -124,15 +124,6 @@
 }
 
 /* Profiles */
-.profile {
-    display: grid;
-    grid-template-rows: 4fr 2fr;
-    background-color: rgba(255, 255, 255, 0.534);
-    border-radius: 7%;
-    color: rgb(0, 0, 0);
-    align-items: center;
-    justify-items: center;
-}
 
 
 .meetTheTeam h1{
