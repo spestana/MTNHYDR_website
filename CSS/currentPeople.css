@@ -56,7 +56,7 @@
         }
 
         .profile a{
-            width: 30vw;
-            height: 20vh;       
+            width: 100%;
+            height: 100%;       
         }
     }
