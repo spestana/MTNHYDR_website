@@ -88,7 +88,6 @@
     animation-duration: 2s;
 }
 .initialInfo{
-    grid-column: 2/ span 2;
     grid-row: 3/ span 2;
     font-size: 1.2em;
     padding: 1.5% 3%;
@@ -96,12 +95,9 @@
     height: auto;
     border-radius: 1%;
 }
-
     #infoLeft {
         grid-column: 2/ span 2;
-        grid-row: 3;
     }
-
     #infoRight {
         grid-column: 4/ span 2;
     }
@@ -109,17 +105,14 @@
 .illustrationSpace{ 
     grid-row: 2 / span 4;
 }
-
     #illusRight{
         grid-column: 5 / span 1;
         animation-name: introFade;
         animation-duration: 1s;
     }
-
     #illusLeft{
         grid-column: 2 / span 1;
     }
-
     .illustrationSpace img{
         height: 100%
     }
