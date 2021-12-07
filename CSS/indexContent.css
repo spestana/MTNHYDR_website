@@ -133,18 +133,7 @@
     align-items: center;
     justify-items: center;
 }
-.profilePicture{
-    grid-row: 1;
-    height: 170px;
-    width: 170px;
-    border-radius: 100%;
-}
-.profile .labelProfile {
-    display: block;
-    grid-row: 2;
-    align-self: end;
-    justify-self: center;
-}
+
 
 .meetTheTeam h1{
     width: 100%;
