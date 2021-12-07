@@ -102,6 +102,12 @@
         background-size: cover;
     }
 
+    #profTen .profilePicture{
+        background-color: 'lightgrey';
+        background-position: top;
+        background-size: cover;
+    }
+
     /*Here is the media query for the Tablet/Phone sizes*/
     @media only screen and (max-width: 1200px) {
         .peopleMain{
