@@ -54,7 +54,7 @@
     }
 
     #profTen .profilePicture{
-        background-color: 'lightgrey';
+        background-image: url(../src/Profile%20Pictures/Anna%20Profile%20Picture.PNG);
         background-position: top;
         background-size: cover;
     }
