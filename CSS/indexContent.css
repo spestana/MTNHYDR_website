@@ -20,7 +20,7 @@
 /*Main Content*/
 .page{
     height: 800px;
-    width: 100vw;
+    width: 100%;
     color: rgb(255, 255, 255);
     display: grid;
     grid-template-columns: 10% 30% 10% 10% 30% 10%;
