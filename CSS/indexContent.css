@@ -154,54 +154,7 @@
     color: black
 }
 
-    #profOne .profilePicture{
-        background-image: url(../src/Profile\ Pictures/JessicaProfile.jpg);
-        background-position: top;
-        background-size: cover;
-    }
-
-    #profTwo .profilePicture{
-        background-image: url(../src/Profile\ Pictures/JustinProfile.jpg);
-        background-position: center;
-        background-size: cover;
-    }
-
-    #profThree .profilePicture{
-        
-        background-position: center;
-        background-size: cover;
-    }
-
-    #profFour .profilePicture{
-        background-image: url(../src/Profile\ Pictures/StevenProfile.jpg);
-        background-position: center;
-        background-size: cover;
-    }
-
-    #profFive .profilePicture{
-        background-image: url(../src/Profile\ Pictures/CassieProfile.jpeg);
-        background-position: center;
-        background-size: cover;
-    }
-
-    #profSix .profilePicture{
-        background-image: url(../src/Profile\ Pictures/HannahProfile.jpg);
-        background-position: center;
-        background-size: cover;
-    }
-
-    #profSeven .profilePicture{
-        background-image: url(../src/Profile\ Pictures/JoeProfile.png);
-        background-position: center left;
-        background-size: cover;
-    }
-
-    #profEight .profilePicture{
-        background-image: url(../src/Profile\ Pictures/JoriProfile.jpg);
-        background-position: center;
-        background-size: cover;
-    }
-
+  
 
     /*Tablet and Phone screens*/
     @media only screen and (max-width: 1200px) {
