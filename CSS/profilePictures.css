@@ -1,3 +1,18 @@
+.profilePicture{
+    justify-self: center;
+    align-self: center;
+    grid-row: 1;
+    height: 15vw;
+    width: 15vw;
+    border-radius: 100%;
+}
+
+.profile .labelProfile {
+    display: block;
+    grid-row: 2;
+    align-self: end;
+    justify-self: center;
+}
 
     #profOne .profilePicture{
         background-image: url(../src/Profile\ Pictures/JessicaProfile.jpg);
