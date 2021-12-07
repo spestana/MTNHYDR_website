@@ -200,6 +200,9 @@ a {
 a:hover {
     color:rgb(187, 187, 187);
 }
+.joinUs {
+    padding-left: 5vw;
+}
 
 .UWLogo{
     display: flex;
