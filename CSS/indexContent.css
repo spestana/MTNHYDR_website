@@ -30,7 +30,7 @@
 #pageOne {
     background-image: url("../src/MntBaker_Ridge_1.jpg");
     background-color: white;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
