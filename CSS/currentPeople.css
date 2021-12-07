@@ -32,20 +32,7 @@
     border-radius: 5%;
     background-color: rgba(95, 113, 192, 0.548);
 }
-.profilePicture{
-    justify-self: center;
-    align-self: center;
-    grid-row: 1;
-    height: 15vw;
-    width: 15vw;
-    border-radius: 100%;
-}
-.profile .labelProfile {
-    display: block;
-    grid-row: 2;
-    align-self: end;
-    justify-self: center;
-}
+
 
 
 
