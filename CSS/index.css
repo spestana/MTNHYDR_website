@@ -185,7 +185,7 @@ a {
 .footer {
     display: grid;
     margin: 0;
-    padding: 0 5vw;
+    column-gap: 5vw;
     grid-template-columns: 1fr 1fr 1fr;
     height: 100%;
     width: 90vw;
