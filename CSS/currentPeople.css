@@ -97,7 +97,7 @@
     }
 
     #profNine .profilePicture{
-        background-color: grey;
+        background-image: url(src/Profile%20Pictures/Annika%20profile%20picture.PNG);
         background-position: top;
         background-size: cover;
     }
