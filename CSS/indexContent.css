@@ -43,12 +43,13 @@
 /* Profiles */
 
 .meetTheTeam{
-    height: 1000px;
+    height: 100%;
     color:rgb(255, 255, 255);
-    background-image: url("../src/BoundaryWatersTrip2020-0555\ -\ Copy.jpg");
+    /*background-image: url("../src/BoundaryWatersTrip2020-0555\ -\ Copy.jpg");
     background-position: bottom;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
+    background-color: white;
 }
 .meetTheTeam h1{
     width: 100%;
